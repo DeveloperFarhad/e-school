@@ -1,0 +1,191 @@
+.logo{
+    width: 180px;
+}
+.bg-color{
+    background-color: rgba(224, 255, 255, 0.788);
+}
+.nav-item a{
+    color:black;
+    margin-right:25px
+}
+.sing-in{
+
+    background-color: lightseagreen;
+    border-radius: 40px;
+    padding: 5px 30px;
+}
+.bannerIMG{
+    width:500px
+}
+.catagories{
+    margin-top:100px
+}
+.learn{
+    color:red
+}
+.banner h1{
+    width:400px;
+    font-size: 50px;
+    font-weight: 700;
+}
+.banner span{
+    color: lightseagreen;
+}
+.dascription {
+    width:370px
+}
+.bannerBTN{
+    padding:8px 30px;
+    border-radius: 50px;
+    background-color: lightseagreen;
+    border: none;
+}
+.bannerBTN:hover{
+    background-color: rgba(255, 0, 255, 0.918);
+    color:white;
+    transition:0.5s
+}
+.bannerW{
+    background-color: rgba(224, 255, 255, 0.788);
+}
+.banner{
+    margin-bottom: 110px;
+}
+.secondIMG img{
+    width: 60px;
+    margin: auto;
+
+}
+
+.colo{
+    width: 280px;
+    text-align: center;
+    border-radius: 20px;
+    
+
+}
+.secondIMG:hover{
+    background-color:  rgba(0, 255, 255, 0.897);
+    color:rgba(0, 0, 0, 0.87);
+    transition:0.8s
+}
+.secondIMG{
+    padding-top:50px;
+    padding-bottom: 20px;
+    background-color:rgba(224, 255, 255, 0.377);
+    border:none
+}
+.second2{
+    background-color: white;
+    border:none;
+    box-shadow: 0px 0px 15px -3px gray;
+}
+.second1 img{
+    height:60px
+
+
+}
+
+.card{
+    border: none;
+}
+.col123{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+.img3rdBAN img{
+    width:30px
+
+}
+.img3rdBAN span{
+    width:200px;
+    margin-top:20px;
+    float:left
+
+}
+
+.img3rdBAN2{
+    padding-top:20px;
+
+    
+}
+.img3rdBAN2 img{
+    margin-top:-3px
+  
+}
+.catagories2{
+
+    box-shadow: 0px 0px 25px -3px gray;
+    border: none;
+}
+.catagories23{
+    width:335px;
+    margin: auto;
+    margin-top:9px
+}
+.ocBODER{
+    border-radius: 30px;
+}
+.tastiminalIMG {
+    width: 130px;
+    
+}
+.tastiminalW{
+    width: 600px;
+    font-weight: arial;
+
+}
+.tastiminalful{
+    text-align: center;
+}
+.tastiminaltop{
+    text-align: center;
+    padding-bottom: 45px;
+}
+.footerW{
+    color:white;
+    padding-top: 5%;
+}
+footer{
+    background-color: rgba(0, 0, 0, 0.863);
+
+}
+.footerW ul li{
+    list-style: none;
+
+}
+.footerW ul li a{
+    line-height: 30px;
+}
+.footerW ul li:hover{
+    background-color:  rgba(255, 0, 255, 0.918);
+    transition: 1s;
+    border-radius:5px
+
+}
+.footerW span{
+    font-weight: 700;
+
+
+
+}
+.footerW ul{
+    margin-bottom:70px
+}
+.footerP{
+    text-align:center;
+    padding-bottom:10px
+} 
+.fTOP{
+    width:350px;
+
+}
+.footerSPAN p{
+    margin-right:20px;
+    font-weight: 700;
+    margin-left: 30px;
+}
+h1{
+    font-weight:700
+}
